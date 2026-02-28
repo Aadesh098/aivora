@@ -1,0 +1,7 @@
+Chapter - 9 (File Explorer)
+
+Design file/folder data model in Convex 
+Build recursive tree component for hierarchy 
+Create collapsible folder behavior 
+Implement file icons using vocode-icons-js
+Add file selection state management 

@@ -1,0 +1,7 @@
+Chapter - 6 (Error Tracking)
+
+Setup Sentry with Next.js wizard 
+Catch background job failures with Inngest 
+Monitor AI calls and token usage 
+Add structured logs for user interactions 
+Implement user context for better debugging 

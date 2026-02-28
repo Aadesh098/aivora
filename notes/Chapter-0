@@ -1,0 +1,42 @@
+Chapter - 0 (Intro)
+
+Aivora is a browser-based IDE with the following features:
+Real-time Collaboration - Supports multiple users editing code simultaneously.
+AI Code Suggestions - Provides intelligent suggestions and quick edits using Cmd+K.
+AI Assistant - Conversation-based assistant to help with coding tasks.
+In-Browser Execution - Runs code directly in the browser using WebContainer.
+GitHub Integration - Allows importing and exporting projects from GitHub.
+Multi-file Projects - Supports structured projects with multiple files and folders.
+
+Tech Stack 
+
+User Interface
+Shadcn/UI - Prebuilt UI components using Tailwind, easy to customize and reuse.
+Radix UI - Accessible UI primitives used to build flexible components.
+
+Frontend
+Next.js - React framework for building fast and scalable web applications.
+React 19 - Library for creating interactive user interfaces with components.
+TypeScript - Typed JavaScript that improves code safety and maintainability.
+Tailwind CSS 4 - Utility-first CSS framework for designing modern responsive layouts.
+
+Backend
+Convex (Real Time DB) - Backend platform with real-time database and server functions.
+Inngest (Background Jobs) - Event-driven system for running background jobs and workflows.
+
+Editor
+CodeMirror 6 - Flexible browser-based code editor with extension support.
+Custom Extensions - Additional editor features built for project-specific functionality.
+One Dark Theme - Clean dark theme designed for comfortable coding.
+
+AI
+Claude Sonnet - AI model used for intelligent coding assistance.
+
+Auth
+Clerk - Authentication service for secure user login and management.
+
+Execution
+WebContainer API - Runs a Node.js environment directly inside the browser.
+Xterm.js - Browser-based terminal for running command-line operations.
+
+

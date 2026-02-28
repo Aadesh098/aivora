@@ -1,0 +1,9 @@
+Chapter - 3 (Database Setup)
+
+Setup Convex Account and Project 
+Install Convex SDK and CLI Tools 
+Create table with CRUD operations 
+Configure Convex provider with Clerk Authentication 
+
+Middleware Vulnerabilities (unprotected API routes)
+ENV Variable Security Check 
