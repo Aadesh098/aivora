@@ -36,3 +36,26 @@ Aivora is an AI-first development engine that bridges the gap between idea and e
 ## Vision
 
 Aivora represents a shift toward intent-driven engineering—where developers define *what* to build, and the system determines *how* to build it.
+
+---
+
+<img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/86db5227-a3a7-46ba-8c72-a56ff48911b5" />
+<br />
+<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/70741c6f-32b0-41af-aebf-4e5b5a7f7a86" />
+<br />
+<img width="1911" height="909" alt="image" src="https://github.com/user-attachments/assets/f19ab787-953c-4d0b-a4f0-45e09a3584b7" />
+<br />
+<img width="1874" height="911" alt="image" src="https://github.com/user-attachments/assets/bcd10566-3d9a-4a5c-bce2-6357e3991be5" />
+<br />
+<img width="1907" height="905" alt="image" src="https://github.com/user-attachments/assets/00b3760d-1090-4231-a25a-b6c92eb1f9fd" />
+<br />
+<img width="1892" height="895" alt="image" src="https://github.com/user-attachments/assets/561bff3a-836b-4578-bfa3-0f8660b91d64" />
+<br />
+<img width="1882" height="898" alt="image" src="https://github.com/user-attachments/assets/1d4c5890-27a8-4477-908e-dd178ef64cdd" />
+<br />
+<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/2c628e8f-ce22-495c-a6f3-a2f73fe98c57" />
+
+
+
+
+
