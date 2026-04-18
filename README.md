@@ -35,7 +35,7 @@ Aivora is an AI-first development engine that bridges the gap between idea and e
 
 ## Vision
 
-Aivora represents a shift toward intent - driven engineering—where developers define *what* to build, and the system determines *how* to build it.
+Aivora represents a shift toward intent driven engineering - where developers define *what* to build, and the system determines *how* to build it.
 
 ---
 
