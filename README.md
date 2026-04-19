@@ -56,7 +56,8 @@ Aivora represents a shift toward intent driven engineering - where developers de
 <br />
 <img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/2c628e8f-ce22-495c-a6f3-a2f73fe98c57" />
 <br />
-<img width="1885" height="907" alt="image" src="https://github.com/user-attachments/assets/5e19bad8-2f7b-431a-bf32-55630cc918d8" />
+<img width="1888" height="903" alt="image" src="https://github.com/user-attachments/assets/0cb28e12-2777-4cb9-a5be-48c8b203a5e2" />
+
 
 
 
