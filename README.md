@@ -30,6 +30,7 @@ Aivora is an AI-first development engine that bridges the gap between idea and e
 **UI:** Tailwind CSS 4, shadcn/ui, Radix UI, Motion  
 **State & Validation:** Zustand, Zod, React Hook Form, TanStack Form  
 **Integrations:** Clerk, Octokit, Firecrawl, Sentry  
+**Deployment:** Vercel
 
 ---
 
@@ -54,6 +55,8 @@ Aivora represents a shift toward intent driven engineering - where developers de
 <img width="1882" height="898" alt="image" src="https://github.com/user-attachments/assets/1d4c5890-27a8-4477-908e-dd178ef64cdd" />
 <br />
 <img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/2c628e8f-ce22-495c-a6f3-a2f73fe98c57" />
+<br />
+<img width="1885" height="907" alt="image" src="https://github.com/user-attachments/assets/5e19bad8-2f7b-431a-bf32-55630cc918d8" />
 
 
 
