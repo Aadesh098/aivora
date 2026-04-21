@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   title: "Aivora",
   description:
     "An AI-native engine that transforms intent into deployable systems",
+  icons: {
+    icon: "/logo.svg",
+  },
 };
 
 export default function RootLayout({
